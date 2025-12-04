@@ -1,8 +1,8 @@
 # Meetup Weather Planner
 
-A lightweight, fast-to-iterate React prototype that helps a meetup organizer compare this week’s weather vs next week’s for a recurring outdoor event. The goal is to give organizers a simple way to decide whether to continue, prepare, or cancel the meetup based on conditions like rain, wind, temperature, and overall comfort.
+A lightweight React prototype that helps a meetup organizer compare this week’s weather vs next week’s for a recurring outdoor event. The goal is to give organizers a simple way to decide whether to continue, prepare, or cancel the meetup based on conditions like rain, wind, temperature, and overall comfort.
 
-This project was built for the Novig Full-Stack Engineer Take-Home Assessment. The focus was on:
+The focus was on:
 
 1. Interpreting the design intent
 2. Implementing good-enough architecture that can evolve
@@ -23,9 +23,10 @@ Meetup hosts often rely on rough guesses or scattered weather apps to decide whe
 6. View temperature trends with charts and weather icons
 7. Get an automatic Feels-Like Recommendation based on actual conditions
 
-The layout follows the reference sketch in the assignment.
+The layout follows the reference sketch in the assigned pdf.
 
 # Features Implemented
+
 1. Location, Day & Time Controls
 A simple control panel allows the organizer to update:
   a. City or location
